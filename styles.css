@@ -35,6 +35,11 @@ body {
   justify-content: space-between;
 }
 
+.footer1 {
+	width:100%;
+        color: #ffffff;
+	}
+
 .row {
 	  display: flex;
 	}
@@ -44,10 +49,6 @@ body {
 	  padding: 16px;
 	  height: 250px;
 	}
-
-h4 {
-    color: #ffffff;
-}
 
 .home-text {
   color: #ffffff;
