@@ -9,3 +9,9 @@ body {
     padding: 0;
     height: 100%;
 }
+
+.innerDiv {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
