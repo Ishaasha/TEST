@@ -36,8 +36,9 @@ body {
 }
 
 .footer1 {
+	display: inline-block;
 	width: 100%;
-        color: #ffffff;
+        text-color: #ffffff;
 	}
 
 .row {
